@@ -4,11 +4,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="lVM0PGsEVYaV1nGACYPw-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lVM0PGsEVYaV1nGACYPw-1" target="lVM0PGsEVYaV1nGACYPw-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lVM0PGsEVYaV1nGACYPw-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="20" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="lVM0PGsEVYaV1nGACYPw-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lVM0PGsEVYaV1nGACYPw-2" target="lVM0PGsEVYaV1nGACYPw-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lVM0PGsEVYaV1nGACYPw-2" value="Vraag max getal aan de gebruiker" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="120" width="240" height="60" as="geometry" />
+          <mxGeometry x="240" y="160" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lVM0PGsEVYaV1nGACYPw-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lVM0PGsEVYaV1nGACYPw-4">
           <mxGeometry relative="1" as="geometry">
