@@ -1,9 +1,40 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="Page-1" id="wzXBaks2tttUDE-rddll">
-    <mxGraphModel>
+    <mxGraphModel dx="1038" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="lVM0PGsEVYaV1nGACYPw-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lVM0PGsEVYaV1nGACYPw-2" value="Vraag max getal aan de gebruiker" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="120" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lVM0PGsEVYaV1nGACYPw-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lVM0PGsEVYaV1nGACYPw-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lVM0PGsEVYaV1nGACYPw-4" value="als het tweede getal &amp;lt; max_getal" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="510" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lVM0PGsEVYaV1nGACYPw-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lVM0PGsEVYaV1nGACYPw-3" target="lVM0PGsEVYaV1nGACYPw-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="430" />
+              <mxPoint x="360" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lVM0PGsEVYaV1nGACYPw-5" value="nieuw tweede getal = eerste getal + tweede getal&lt;div&gt;eerste getal = vorig tweede getal&lt;/div&gt;&lt;div&gt;tweede getal = nieuw tweede getal&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="440" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lVM0PGsEVYaV1nGACYPw-3" value="initialiseer de eerste twee getallen:&amp;nbsp;&lt;div&gt;eerste getal = 1&lt;/div&gt;&lt;div&gt;tweede getal = 1&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="350" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lVM0PGsEVYaV1nGACYPw-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.617;entryY=0.185;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lVM0PGsEVYaV1nGACYPw-5" target="lVM0PGsEVYaV1nGACYPw-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
