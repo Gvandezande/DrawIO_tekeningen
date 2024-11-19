@@ -11,7 +11,7 @@
           <mxGeometry x="169.5" y="-1080" width="205" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UcOkbDM3o_6liZAEe9FU-4" value="generaar random getal&lt;div&gt;initialiseer aantal pogingen op 0&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="167" y="-900" width="210" height="60" as="geometry" />
+          <mxGeometry x="167" y="-880" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UcOkbDM3o_6liZAEe9FU-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UcOkbDM3o_6liZAEe9FU-5" target="UcOkbDM3o_6liZAEe9FU-4">
           <mxGeometry relative="1" as="geometry" />
