@@ -8,13 +8,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kPjmXngsmsVLts5UkG2c-1" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="40" width="160" height="60" as="geometry" />
+          <mxGeometry x="40" y="40" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kPjmXngsmsVLts5UkG2c-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kPjmXngsmsVLts5UkG2c-2" target="kPjmXngsmsVLts5UkG2c-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kPjmXngsmsVLts5UkG2c-2" value="&lt;div&gt;Initialiseer:&lt;/div&gt;totale_bijdrage_som = 0&lt;div&gt;nr_medewerker = 1&lt;/div&gt;&lt;div&gt;aantal_medewerkers = aantal in de lijst&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="130" width="160" height="80" as="geometry" />
+          <mxGeometry x="40" y="130" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kPjmXngsmsVLts5UkG2c-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kPjmXngsmsVLts5UkG2c-3" target="kPjmXngsmsVLts5UkG2c-4">
           <mxGeometry relative="1" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kPjmXngsmsVLts5UkG2c-3" value="if nr_medewerker &amp;lt; aantal medewerkers" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="390" width="160" height="80" as="geometry" />
+          <mxGeometry x="40" y="390" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kPjmXngsmsVLts5UkG2c-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kPjmXngsmsVLts5UkG2c-4" target="kPjmXngsmsVLts5UkG2c-5">
           <mxGeometry relative="1" as="geometry" />
@@ -37,11 +37,11 @@
         <mxCell id="kPjmXngsmsVLts5UkG2c-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kPjmXngsmsVLts5UkG2c-5" target="kPjmXngsmsVLts5UkG2c-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kPjmXngsmsVLts5UkG2c-5" value="if rol = bediende" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kPjmXngsmsVLts5UkG2c-5" value="if statuut = bediende" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="390" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kPjmXngsmsVLts5UkG2c-8" value="Nee" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="360" width="60" height="30" as="geometry" />
+          <mxGeometry x="210" y="380" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kPjmXngsmsVLts5UkG2c-9" value="Ja" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="460" width="60" height="30" as="geometry" />
@@ -71,10 +71,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kPjmXngsmsVLts5UkG2c-26" value="Druk totale_bijdrage_som" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="510" width="160" height="60" as="geometry" />
+          <mxGeometry x="40" y="510" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kPjmXngsmsVLts5UkG2c-28" value="Einde" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="610" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kPjmXngsmsVLts5UkG2c-31" value="Ja" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="360" width="60" height="30" as="geometry" />
